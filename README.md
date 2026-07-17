@@ -23,7 +23,7 @@ Food quality scoring (Insights) — HEIFA-based score breakdown across categorie
 
 ## Getting started
 
-- Clone the repo and open it in Android Studio.
+- Clone the repo and open it in Android Studio or just download the NutriTrack.zip file into ur local computer and import it into Android Studio.
   
 - Create/edit local.properties in the project root and add your Gemini API key (get one at Google AI Studio):
 properties apiKey=YOUR_GEMINI_API_KEY
